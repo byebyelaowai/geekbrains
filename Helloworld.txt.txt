@@ -1,2 +1,8 @@
 print("Привет, мир!")
 print("Hello, my dear friend")
+print("Привет, мир;")
+print("доороу, мир;")
+print("хаюшки, мир;")
+print("доровяндры, мир;")
+print("зиг, мир;")
+print("hello";)
